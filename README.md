@@ -33,6 +33,8 @@ Library database involving multiple tables like:
 9. Book titles in the "history" category
 10. Branches with more than 5 employees
 
+-- Dataset Credit: https://github.com/lijesh010/LibraryManagementSystem
+
 -- About Me
 
 I'm a BBA graduate currently exploring SQL and data analytics. This project is part of my learning journey — feel free to check it out and share suggestions!
